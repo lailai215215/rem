@@ -58,12 +58,12 @@ iPhone 6 Plus| 3 | 1/3 | 1242 px | 194.063 px | 是 |
 
 主要设备统计：
 
-设备名称  | dpr | viewport 缩放 | viewport 屏宽 | 根字体 | 高清 |
+设备名称  | dpr | viewport 缩放 | viewport 屏高 | 根字体 | 高清 |
 ---|---|---|---|---|---
-iPhone 4 | 2 | 0.5 | 640 px | 150 px | 是 |
-iPhone 5 | 2 | 0.5 | 640 px | 177.5 px | 是 |
-iPhone 6 | 2 | 0.5 | 750 px | 208.438 px | 是 |
-iPhone 6 Plus| 3 | 1/3 | 1242 px | 345 px | 是 |
+iPhone 4 | 2 | 0.5 | 960 px | 150 px | 是 |
+iPhone 5 | 2 | 0.5 | 1136 px | 177.5 px | 是 |
+iPhone 6 | 2 | 0.5 | 1334 px | 208.438 px | 是 |
+iPhone 6 Plus| 3 | 1/3 | 2208 px | 345 px | 是 |
 
 使用建议：
 - 如果要保持页面在不同设备下尽可能与psd图保持一致，等比例缩放，赶快来使用吧！但pad上也会等比例，很丑哦
